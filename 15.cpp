@@ -47,7 +47,7 @@ int g = 0;
 }
 int main()
 {
-int n = 6;
+int n = 8;
 cub(n);
     return 0;
 }
